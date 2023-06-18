@@ -1,0 +1,233 @@
+body {
+  color: #40514e;
+  background-color: #d2e9e9;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.div0 {
+  padding: 10px 30%;
+  background-color: #159895;
+}
+.begg {
+  position: relative;
+  right: 200px;
+}
+.beg {
+  height: 7rem;
+}
+.aa {
+  margin: auto 3rem;
+  color: #0b2447;
+  position: relative;
+  bottom: 3.125rem;
+  left: 13.5rem;
+}
+.aa:hover {
+  color: aqua;
+}
+.div1 {
+  background-color: #9db2bf;
+  padding: 20px;
+}
+.name {
+  display: block;
+  font-size: 562%;
+  margin-bottom: 0;
+  color: #00dfa2;
+  position: relative;
+  top: 50px;
+  font-family: "Sacramento", cursive;
+}
+#des {
+  position: relative;
+  top: 50px;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #068da9;
+}
+.we {
+  color: #116d6e;
+}
+.mountain {
+  position: relative;
+}
+.cloud {
+  width: 200px;
+}
+#cl1 {
+  position: relative;
+  right: 30%;
+  top: 50px;
+}
+#cl2 {
+  position: relative;
+  left: 30%;
+  top: 50px;
+}
+.div2 {
+  margin: 40px auto;
+}
+a {
+  color: brown;
+  text-decoration: none;
+  font-family: "Merriweather", serif;
+}
+a:hover {
+  font-weight: bolder;
+}
+.div31 {
+  text-align: left;
+  line-height: 2;
+}
+.p31 {
+  color: #000;
+}
+.prim {
+  font-size: 2.5em;
+  color: #cd1818;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  font-weight: bold;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+}
+.sec {
+  font-size: 1.5em;
+  color: #245953;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  font-weight: bold;
+  margin-top: 0.83em;
+  margin-bottom: 1.5em;
+  margin-left: 0;
+  margin-right: 0;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #413f42;
+  border-width: 5px;
+  height: 0px;
+  width: 20%;
+}
+.div41 {
+  width: 50%;
+  margin: 50px auto 100px;
+  line-height: 2;
+  /*position: relative;
+  left: 25%;*/
+}
+.div42 {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  /*position: relative;
+  left: 25%;*/
+}
+.div43 {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  /*position: relative;
+  left: 25%;*/
+}
+.prog {
+  width: 20%;
+  margin: auto 30px;
+  float: left;
+}
+.comp {
+  width: 20%;
+  margin: auto 30px;
+  float: right;
+}
+.pen {
+  width: 20%;
+  margin: auto 30px;
+  float: left;
+}
+#around {
+  border-spacing: 3px;
+  width: 100%;
+  height: 200px;
+}
+table {
+  border-spacing: 0;
+  width: 100%;
+  height: 200px;
+}
+thead {
+  font-size: 1.5em;
+  height: 60px;
+  background-color: #116d6e;
+  color: white;
+}
+.r1 {
+  background-color: #ddd;
+}
+.r2 {
+  background-color: #f2f2f2;
+}
+.div5 {
+  padding-bottom: 50px;
+}
+#p5 {
+  margin-bottom: 66px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.div6 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #159895;
+  margin: 50px 0px 0px;
+}
+.sm {
+  text-decoration: none;
+  color: #004d2e;
+  font-family: "Merriweather", serif;
+}
+.sm:hover {
+  color: aqua;
+}
+.face {
+  cursor: auto;
+  margin: 30px 3rem;
+}
+.insta {
+  margin: 30px 3rem;
+}
+.twit {
+  margin: 30px 3rem;
+}
+.tele {
+  margin: 30px 3rem;
+}
+.end {
+  color: #212a3e;
+}
